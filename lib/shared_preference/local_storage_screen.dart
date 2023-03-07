@@ -20,7 +20,7 @@ class _LocalStorageScreenState extends State<LocalStorageScreen> {
   List<String> dataList = [];
 
   UserModel? userModel;
-  dynamic data = 'gf';
+  dynamic data = 'morning';
 
   @override
   void initState() {
